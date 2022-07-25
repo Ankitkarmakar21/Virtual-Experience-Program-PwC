@@ -2,7 +2,7 @@
 ### Task 1 - Call Center Trend
 Created a dashboard in Power BI reflecting  all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 Possible KPIs include
-1.) verall customer satisfaction
+1.) Overall customer satisfaction
 2.) Overall calls answered/abandoned
 3.) Calls by time
 4.) Average speed of answer
