@@ -16,6 +16,7 @@ support, and streaming TV and movies
 3.) Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges
 and number of tickets opened in the categories administrative and technical
 4.) Demographic info about customers – gender, age range, and if they have partners and dependents
+
 Target: Increase tech support capacity of fiber optic customers and lower tech tickets per customer to 0.5
         Increase sale of 1st and 2nd year contracts by 5% each and yearly Increase of automatic payments by 5%
 
