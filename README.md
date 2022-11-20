@@ -30,7 +30,7 @@ Target: Increase tech support capacity of fiber optic customers and lower tech t
         Increase sale of 1st and 2nd year contracts by 5% each and yearly Increase of automatic payments by 5%
         
         
-      ![churn dashboard](https://user-images.githubusercontent.com/108228299/202893859-63d5d812-9a35-47c6-831f-5995eedae098.PNG)
+![churn dashboard](https://user-images.githubusercontent.com/108228299/202893859-63d5d812-9a35-47c6-831f-5995eedae098.PNG)
 
         
         
