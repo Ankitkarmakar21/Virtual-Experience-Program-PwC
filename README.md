@@ -8,6 +8,15 @@ Possible KPIs include
 4.) Average speed of answer
 5.) Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+
+![call center analysis](https://user-images.githubusercontent.com/108228299/202893828-90c06dc1-1ace-4b01-a1ea-e2062a6480fe.png)
+
+
+
+
+
+
+
 ### Task 2 - Churn Analysis
 Analysed the dataset and created a dashboard in Power BI reflecting important KPIs like
 1.) Customers who left within the last month
