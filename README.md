@@ -28,6 +28,15 @@ and number of tickets opened in the categories administrative and technical
 
 Target: Increase tech support capacity of fiber optic customers and lower tech tickets per customer to 0.5
         Increase sale of 1st and 2nd year contracts by 5% each and yearly Increase of automatic payments by 5%
+        
+        
+      ![churn dashboard](https://user-images.githubusercontent.com/108228299/202893859-63d5d812-9a35-47c6-831f-5995eedae098.PNG)
+
+        
+        
+        
+        
+        
 
 ### Task 3 - Diversity and Inclusion Analysis
 Created a dashboard analysing the dataset improve gender balance at the executive management level.
@@ -38,7 +47,10 @@ Some of the KPIs included :
 4.) % employees promoted (FY21)
 5.) % of women promoted
 6.) % of hires men
-7.) % of hires women
-8.) % turnover 
-9.) Average performance rating: men
-10.) Average Performance rating: women
+
+
+
+![diversity and inclusion dashboard](https://user-images.githubusercontent.com/108228299/202893870-0a4984c4-799c-4bed-ad0c-320016fc4688.PNG)
+
+
+
