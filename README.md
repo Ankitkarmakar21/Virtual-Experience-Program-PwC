@@ -47,10 +47,11 @@ Some of the KPIs included :
 4.) % employees promoted (FY21)
 5.) % of women promoted
 6.) % of hires men
+![DIVERSITY AND INCLUSION](https://user-images.githubusercontent.com/108228299/205098307-c906691e-f820-4e44-99aa-796fe887c413.PNG)
 
 
 
-![diversity and inclusion dashboard](https://user-images.githubusercontent.com/108228299/202893870-0a4984c4-799c-4bed-ad0c-320016fc4688.PNG)
+
 
 
 
