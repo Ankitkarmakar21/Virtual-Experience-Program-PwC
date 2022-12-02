@@ -50,8 +50,9 @@ Some of the KPIs included :
 ![DIVERSITY AND INCLUSION](https://user-images.githubusercontent.com/108228299/205098307-c906691e-f820-4e44-99aa-796fe887c413.PNG)
 
 
+TARGET
 
-
+![TARGET](https://user-images.githubusercontent.com/108228299/205317903-012e496b-fd11-424e-aa70-77e777bbda7c.PNG)
 
 
 
